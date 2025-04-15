@@ -1,22 +1,24 @@
 ---
-title: "How to make toys from old 456745674567Olarpaper"
+title: "The Neuroscience Behind Anti-Intellecutualism"
 description: "meta description"
 date: 2023-04-04
 image: "/images/posts/01.jpg"
 categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
+authors: ["Sam"]
+tags: ["neuroscience", "intelligence"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Neuroscience backs up the idea of anti-intellectualism, when people or a group of people feel inferior by someone intellectual due to their deep thinking ability and unconventional ideas, it triggers a survival response as the brains' amygdala become highly active, which is similar to the fear of being in physical danger.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+The reason intelligence activates amygdala response lies in human evolution, humans survival was not dependent on a single smartest person or a deep thinker in a community, it was dependent on the communal strength and how they together physically can tackle bigger threats like mammoth and other animals.
 
-## Creative Design
+Human brain prioritize social acceptance over intellectual pursuit due to ancestral need to safety and harmony in the tribes, Where rejection by the group meant vulnerability and potential death.
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+The presence of an intellectual person in a room, can disrupt the tribal balance, challenging established beliefs and group dynamics, and triggering an instinctual response that perceive them as a threat rather than a valuable thinker.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## References
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+[[Why Intelligent People Scare Society]]
+[[Intelligence Is A Threat To Ego]]
+[[Why Society Don't Like Intellectual People]]
